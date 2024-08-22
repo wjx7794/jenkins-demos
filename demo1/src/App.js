@@ -6,6 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src="https://bucket-1259402589.cos.ap-beijing.myqcloud.com/wallhaven-96geow.jpg"
+          // className="App-logo"
+          className="wallPaper"
+          alt="logo"
+        />
         <p>
           Edit <code>src/App.js</code> and save to reloadZ🍃.
         </p>
